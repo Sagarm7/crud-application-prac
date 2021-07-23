@@ -1,0 +1,14 @@
+{
+	"users": [
+		{
+			"name": "Sagar",
+			"email": "$2a$10$3yZf1LzKLOerQNthf1E8ce1ddKkfvW9V0tnAkLyS9I7.wpuIpxfm2",
+			"password": "$2a$10$.bTet2TDxJzQNeccwVXZMe.YATmm7qAlnxgR2zdpH73KkiPVqPOX6"
+		},
+		{
+			"name": "Ragas",
+			"email": "$2a$10$lvOZzp2O3mgSHnlteC0q9uFyaCRnhPZ7GieivUiH54/0dQ8KSbav6",
+			"password": "$2a$10$dMhQ7lrEAEwCEruIAMlL2OSjdfoOJ57ufOS4/7JQywfwC7dtjkPXm"
+		}
+	]
+}
